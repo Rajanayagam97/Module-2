@@ -134,7 +134,7 @@ pascal_triangle(n)
 ```
 
 ## Sample Output
-<img width="996" height="573" alt="image" src="https://github.com/user-attachments/assets/ea5a4121-c588-4082-afc4-b103ae1a30da" />
+<img width="452" height="406" alt="image" src="https://github.com/user-attachments/assets/426b3cf4-55f0-4c5c-b2d5-a32638a5474a" />
 
 
 ## Result
