@@ -15,7 +15,8 @@ n=bin(a)
 print(n)
 ```
 ## Output
-<img width="1253" height="276" alt="image" src="https://github.com/user-attachments/assets/a4debe6d-df60-4bd2-80b2-8d032eb6b399" />
+<img width="256" height="163" alt="image" src="https://github.com/user-attachments/assets/109b5b91-1b43-4a95-9a22-dcd31fa471c7" />
+
 
 
 ## Result
