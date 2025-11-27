@@ -53,7 +53,8 @@ except value:
 
 ## Output
 
-![image](https://github.com/user-attachments/assets/0af7e8ed-4e9b-436f-bd3e-5d8789f26fea)
+<img width="561" height="234" alt="image" src="https://github.com/user-attachments/assets/8af44cf3-760f-4f7e-86b1-e44a907b7b7d" />
+
 
 
 ## Result
