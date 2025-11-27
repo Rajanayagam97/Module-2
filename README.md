@@ -83,7 +83,8 @@ print(result)
 
 ## Output
 
-![image](https://github.com/user-attachments/assets/10a6f6cb-3ff2-4457-b46b-87b0d7b7bfdf)
+<img width="561" height="234" alt="image" src="https://github.com/user-attachments/assets/271ebe87-a466-4e38-9e56-7757b46824d5" />
+
 
 
 ## Result
