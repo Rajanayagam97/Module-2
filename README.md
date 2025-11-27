@@ -174,7 +174,7 @@ else:
 
 ```
 ## Output
-<img width="1071" height="270" alt="image" src="https://github.com/user-attachments/assets/d1375190-43d0-4bb3-8000-15b58f6fb716" />
+<img width="705" height="174" alt="image" src="https://github.com/user-attachments/assets/c5fa4a50-32d3-421a-a69a-1745748996c8" />
 
 
 ## Result
